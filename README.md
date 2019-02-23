@@ -1,5 +1,5 @@
 ##  Garry's Mod Dedicated Server Images
-**With CSS content**
+**With CS:S content.**<br/>
 *NOT AN OFFICIAL IMAGE.*<br/>
 
 ### Pull from DockerHub
@@ -28,4 +28,4 @@ Add banned users in `cfg/banned_user.cfg`.<br/>
 garrysmod/srcds_run -game garrysmod -maxplayers 16 +gamemode sandbox +map gm_flatgrass
 ```
 
-<br/>**Report any problem to issue page.**<br/>
+<br/>**Report any problem to [issue](https://github.com/Fnjn/garrysMod-docker/issues) page.**<br/>
