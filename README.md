@@ -18,7 +18,7 @@ docker run -d -p 27015:27015 garrysmod:latest
 
 ### Configuration
 Configure server setting in `cfg/server.cfg`.<br/>
-Configure login in `cfg/autoexec.cfg`.<br/>
+Mount supported games in `cfg/mount.cfg`.<br/>
 Add banned IP in `cfg/banned_ip.cfg`.<br/>
 Add banned users in `cfg/banned_user.cfg`.<br/>
 
